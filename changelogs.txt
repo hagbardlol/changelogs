@@ -4,8 +4,6 @@ Use the bottom right or left corner of the menu to adjust the size.
 
 [04-27-2022]
 
->> 30% discount with the code: "whatisrarpass" until 05-03-2022 <<
-
 [CoreEx]:
     >New Public Build
     >Security Improvements
