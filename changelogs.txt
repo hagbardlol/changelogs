@@ -2,12 +2,16 @@ You can now download the assemblies directly in the game/menu by click.
 By holding shift you can move all windows like Auto Updater Awareness and others.
 Use the bottom right or left corner of the menu to adjust the size.
 
-[04-27-2022]
+[05-11-2022]
 
 [CoreEx]:
     >New Public Build
     >Security Improvements
     >Performance Improvements 
+
+You can redownload the assemblies ingame again by click and load and you will not lose your current settings!
+We have removed some assemblies that do not meet our quality standards anymore.
+We ask you not to use them any longer and ask for support. More and more new assemblies will follow from now.
 
 Visit the forum if you want to have free sub days!
 The developers are happy about any assembly review in the forum.
