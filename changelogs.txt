@@ -1,17 +1,9 @@
-You can now download the assemblies directly in the game/menu by click.
-By holding shift you can move all windows like Auto Updater Awareness and others.
-Use the bottom right or left corner of the menu to adjust the size.
+[05-13-2022]
 
-[05-11-2022]
+We have not yet put an undetected build online for you.
+We have the auth enabled to complete our testing for you.
+Please wait for our message when it is live!
 
-[CoreEx]:
-    >New Public Build
-    >Security Improvements
-    >Performance Improvements 
+Do not use it now!!! today bik! Visit the forum for updates!
 
-You can redownload the assemblies ingame again by click and load and you will not lose your current settings!
-We have removed some assemblies that do not meet our quality standards anymore.
-We ask you not to use them any longer and ask for support. More and more new assemblies will follow from now.
-
-Visit the forum if you want to have free sub days!
-The developers are happy about any assembly review in the forum.
+Everyone gets three days credit today because of the ddos issues at past time.
