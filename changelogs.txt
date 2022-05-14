@@ -1,9 +1,10 @@
-[05-13-2022]
+[05-14-2022]
 
-We have not yet put an undetected build online for you.
-We have the auth enabled to complete our testing for you.
-Please wait for our message when it is live!
-
-Do not use it now!!! today bik! Visit the forum for updates!
-
-Everyone gets three days credit today because of the ddos issues at past time.
+[CoreEx]:
+    >New Public Build
+    >Undetected Again
+    >Security Improvements
+    
+We ask you to download the latest build from the website once.
+!!!!!!! Do not copy old files !!!!!!! and just add your api key.
+Everything else you have to set up again to make sure that no files are left over from the old one.
