@@ -1,9 +1,8 @@
-[05-14-2022]
+[05-19-2022]
 
 [CoreEx]:
-    >New Public Build
+    >New Public Build Beta
     >Undetected Again
-    >Security Improvements
     
 We ask you to download the latest build from the website once.
 !!!!!!! Do not copy old files !!!!!!! and just add your api key.
