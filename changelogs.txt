@@ -1,9 +1,16 @@
-[05-19-2022]
+[06-24-2022]
 
 [CoreEx]:
-    >New Public Build Beta
-    >Undetected Again
-    
-We ask you to download the latest build from the website once.
-!!!!!!! Do not copy old files !!!!!!! and just add your api key.
-Everything else you have to set up again to make sure that no files are left over from the old one.
+    >Added New Menu Theme By User Requests
+    >Let Users Share Settings
+    >Fixed Awareness FPS Problems
+    >Fixed Awareness Fonts Sizes
+    >Fixed OnNewPath
+    >Fixed A Cast To Mouse Bug
+    >Updated DamageLib 12.12
+    >Added DreamTS
+    >Updated DreamPred
+    >Disabled SideHud By Default (you can enable it ingame again)
+
+Please download the latest build from the website and add only your api key.
+Please do not copy old files into the new folder also no assemblies.
