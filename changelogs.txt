@@ -10,4 +10,5 @@
 
 !!! You can now use robur in fullmode, minimize and adjust the resolution at any time !!!
 
-Just restart the robur one time launcher again and then it works.
+Just restart the robur launcher one time again and then it works.
+No need to re-download the full build again.
