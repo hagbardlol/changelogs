@@ -1,29 +1,13 @@
-[06-30-2022]
+[07-06-2022]
 [CoreEx]:
-    >Fixed Jinx R
-    >Awareness Menu Update
+    >Fullmode Support, In-Game Resolution Changeable And Minimizable
+    >Fixed Freeze On Resolution Change
+    >Fixed Crash After Inject
 [Orbwalker]:
-    >Re-written orbwalk core by @Setna
-    >Added DreamTS integration
-    >Ported orb-related TS functions into the orbwalker
-    >Added Zeri E as AA Reset
-    >Added Viego E as AA Reset
-    >Fixed Viego orbwalk after Q usage
-    >Added Zeri Q attacks as registered AA for orbwalker
-    >Fixed Jinx orbwalk with rocket
-    >Added Shen W immortality buff check
-    >Added Pantheon E immortality buff and it's angle check
-    >Re-measured and corrected Senna Mist-Senna distance to avoid from invalid targeting
-    >Added a custom TS mode that selects the most dangerous target
-    >Added dynamic humanizer that randomizes movements delay between minimum and maximum values instead of static one
-    >No longer in-built 100ms humanizer, it can be set it to 0 ms for minimum and maximum
-    >Added extra jungle-mobs sorting method to menu
-    >Added adaptive lane freezing mode
-    >Added Bel'Veth Support
-
-We ask you to download the latest build from the website once.
-!!!!!!! Do not copy old files !!!!!!! and just add your api key.
-Everything else you have to set up again to make sure that no files are left over from the old one.
-Please let us know if it works for you or not.
+    >Fixed orb stuck in attacks and movements after AA forced to reset
+    >Fixed an error when Pantheon using E immortality
 
 !!! You can now use robur in fullmode, minimize and adjust the resolution at any time !!!
+
+Just restart the robur launcher one time again and then it works.
+No need to re-download the full build again.
