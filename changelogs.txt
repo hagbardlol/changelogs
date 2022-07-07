@@ -1,11 +1,12 @@
-[07-06-2022]
+[07-07-2022]
 [CoreEx]:
     >Fullmode Support, In-Game Resolution Changeable And Minimizable
-    >Fixed Freeze On Resolution Change
-    >Fixed Crash After Inject
-[Orbwalker]:
-    >Fixed orb stuck in attacks and movements after AA forced to reset
-    >Fixed an error when Pantheon using E immortality
+    >Fixed Script Loader Download Spam
+    >Fixed Freeze End Game
+    >Fixed Attack Nexus
+    >Fixed DreamTS Exception
+    >Added DreamTS Left Click Force Target Draw
+    >Orbwalker Better Executed Attack Detection For Missiles
 
 !!! You can now use robur in fullmode, minimize and adjust the resolution at any time !!!
 
