@@ -1,14 +1,16 @@
-[07-07-2022]
+[07-09-2022]
+
+New Rankings Season 2 is live!
+You have to restart one time the robur launcher for the rankings to be active.
+
 [CoreEx]:
     >Fullmode Support, In-Game Resolution Changeable And Minimizable
-    >Fixed Script Loader Download Spam
-    >Fixed Freeze End Game
-    >Fixed Attack Nexus
-    >Fixed DreamTS Exception
-    >Added DreamTS Left Click Force Target Draw
-    >Orbwalker Better Executed Attack Detection For Missiles
-
-!!! You can now use robur in fullmode, minimize and adjust the resolution at any time !!!
+    >Added Menu Scale
+    >Added Font Scale
+    >Performance Improvments
+    >Fixed Inject Where Nothing Appears
 
 Just restart the robur launcher one time again and then it works.
 No need to re-download the full build again.
+
+!!! You can now use robur in fullmode, minimize and adjust the resolution at any time !!!
