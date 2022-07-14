@@ -1,11 +1,15 @@
-[07-13-2022]
+[07-14-2022]
 
 New Rankings Season 2 is live!
 You have to restart one time the robur launcher for the rankings to be active.
 
 [CoreEx]:
     >Fullmode Support, In-Game Resolution Changeable And Minimizable
+    >GetSpellDamage Work For AAs
+    >DamageLib 12.13
 [Orbwalker]:
+    >Fixed ForceTarget
+    >Added Nilah
     >Added high precision Gangplank Barrel health prediction, enjoy to outplay enemy Gangplank with instant last-hit
     >Fixed a bug that caused orb stop movement - attack when there are GP Barrel
     >Fixed a bug that caused orb stop movement and wait for projectile hits after spell casted
