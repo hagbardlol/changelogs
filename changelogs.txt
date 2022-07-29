@@ -1,21 +1,32 @@
-[07-14-2022]
-
-New Rankings Season 2 is live!
-You have to restart one time the robur launcher for the rankings to be active.
+[07-29-2022]
 
 [CoreEx]:
-    >Fullmode Support, In-Game Resolution Changeable And Minimizable
-    >GetSpellDamage Work For AAs
-    >DamageLib 12.13
+    >Menu Updated
+    >Fixed Crashes
+    >Huge Performance Improvements
+[Activator]:
+    >Menu Updated
+[Awareness]:
+    >Menu Updated
+    >Removed SideHUD Texts
+    >Huge Performance Improvements
+[DamageLib]:
+    >Added Nilah And Fixed Damages
+    >Performance Improvements
+[DreamTS]:
+    >Menu Updated
+[DreamPred]:
+    >Menu Updated
+    >Improved Prediction For High Latency
 [Orbwalker]:
-    >Fixed ForceTarget
-    >Added Nilah
-    >Added high precision Gangplank Barrel health prediction, enjoy to outplay enemy Gangplank with instant last-hit
-    >Fixed a bug that caused orb stop movement - attack when there are GP Barrel
-    >Fixed a bug that caused orb stop movement and wait for projectile hits after spell casted
-    >New channel detection method that more reliable
-    >New spell cast detection method that more reliable
-    >Added small debug interface for developers that can be open on menu
+    >Menu Updated
+    >New HealthPrediction
+    >Fixed Pet Orbwalking
+    >Added Min/Max Time Between Movements
+    >Performance Improvements
+[Assemblies]:
+    >Menu Updated SallyAIO (Irelia, Pyke & Sett)
+    >Added CXLeeSin
 
 Just restart the robur launcher one time again and then it works.
 No need to re-download the full build again.
