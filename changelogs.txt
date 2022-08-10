@@ -1,0 +1,27 @@
+[08-10-2022]
+
+[CoreEx]:
+    >Performance Improvements
+[Awareness]:
+    >Fixed Summoner CD
+    >Updated Radar Sprite Gets Larger Smaller At Distance
+    >Performance Improvements
+[Orbwalker]:
+    >Jungle Mobs Sorting
+    >Improved Minion Clear Logic
+    >Fixed And Improved Orbwalker
+    >Fixed Kalista
+    >Fixed GP Barrel
+    >Added Zeri
+[Rankings]:
+    >Fixed Missing Matches
+[DamageLib]:
+    >Added Belveth
+[Assemblies]:
+    >Updated Menus For All Assemblies
+
+Just restart the robur launcher one time again and then it works.
+(Only if the robur launcher is active.)
+No need to re-download the full build again.
+
+!!! You can now use robur in FullScreen mode, minimize and adjust the resolution at any time !!!
