@@ -4,6 +4,8 @@
     >Performance Improvements
 [Awareness]:
     >Fixed Summoner CD
+    >Fixed Side HUD Death Timer
+    >Fixed Upgraded Teleport
     >Updated Radar Sprite Gets Larger Smaller At Distance
     >Performance Improvements
 [Orbwalker]:
@@ -17,6 +19,7 @@
     >Fixed Missing Matches
 [DamageLib]:
     >Added Belveth
+    >Added 12.15
 [Assemblies]:
     >Updated Menus For All Assemblies
 
