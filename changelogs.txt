@@ -1,27 +1,17 @@
-[08-10-2022]
+[08-12-2022]
 
 [CoreEx]:
-    >Performance Improvements
-[Awareness]:
-    >Fixed Summoner CD
-    >Fixed Side HUD Death Timer
-    >Fixed Upgraded Teleport
-    >Updated Radar Sprite Gets Larger Smaller At Distance
-    >Performance Improvements
+    >Fixed An Exception
 [Orbwalker]:
-    >Jungle Mobs Sorting
-    >Improved Minion Clear Logic
-    >Fixed And Improved Orbwalker
-    >Fixed Kalista
-    >Fixed GP Barrel
-    >Added Zeri
-[Rankings]:
-    >Fixed Missing Matches
+    >Fixed A Bug
+[DreamPred]:
+    >Fixed A Bug
+[DreamTS]:
+    >Fixed GetPriority
+[Activator]:
+    >Updated Block A Minion Like DotA2
 [DamageLib]:
-    >Added Belveth
-    >Added 12.15
-[Assemblies]:
-    >Updated Menus For All Assemblies
+    >Fixed Guinsoo
 
 Just restart the robur launcher one time again and then it works.
 (Only if the robur launcher is active.)
