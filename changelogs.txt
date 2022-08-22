@@ -1,17 +1,29 @@
-[08-12-2022]
+[08-21-2022]
 
 [CoreEx]:
     >Fixed An Exception
+    >Fixed Unbind A Hotkey Menu Toggle
+    >Fixed Big Sprites
+    >Updated OnDrawDamage
+    >Performance Improvements
 [Orbwalker]:
-    >Fixed A Bug
+    >Added Nilah W Invulnerability
+    >Improved Zeri Q Orbwalking
 [DreamPred]:
-    >Fixed A Bug
+    >Fixed Zed
+    >Fixed Fiddlesticks
 [DreamTS]:
-    >Fixed GetPriority
-[Activator]:
-    >Updated Block A Minion Like DotA2
+    >Fixed A Bug
 [DamageLib]:
-    >Fixed Guinsoo
+    >Fixed An Exception
+    >Added Akali Second Cast
+    >Added Qiyana Passive
+    >Added Khazix Isolation
+    >Added SpecialHealth
+[Assemblies]:
+    >Added Unkillable Minion CXZed Q And E
+    >Fixed Jungle CXLeeSin Q
+    >Fixed PerfectWard Exception
 
 Just restart the robur launcher one time again and then it works.
 (Only if the robur launcher is active.)
