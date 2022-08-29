@@ -1,29 +1,24 @@
-[08-21-2022]
+[08-29-2022]
 
 [CoreEx]:
-    >Fixed An Exception
-    >Fixed Unbind A Hotkey Menu Toggle
-    >Fixed Big Sprites
-    >Updated OnDrawDamage
-    >Performance Improvements
-[Orbwalker]:
-    >Added Nilah W Invulnerability
-    >Improved Zeri Q Orbwalking
-[DreamPred]:
-    >Fixed Zed
-    >Fixed Fiddlesticks
-[DreamTS]:
+    >Fixed Recall Position
     >Fixed A Bug
+    >Fixed Menu Slider Crash
+[Awareness]:
+    >Added Track Jungle In FOG
+[Activator]:
+    >Added Exhaust Logic
+    >Moved BaseUlt From Awareness To Activator
+[DreamTS]:
+    >Fixed API GetPriority
 [DamageLib]:
-    >Fixed An Exception
-    >Added Akali Second Cast
-    >Added Qiyana Passive
-    >Added Khazix Isolation
-    >Added SpecialHealth
+    >Fixed Qiyana Damage
+    >Fixed TitanicHydra
+    >Fixed Irelia Q 
+    >Fixed Pyke R
 [Assemblies]:
-    >Added Unkillable Minion CXZed Q And E
-    >Fixed Jungle CXLeeSin Q
-    >Fixed PerfectWard Exception
+    >CXLeeSin Jungle Q
+    >Updated xSalice Assemblies Menu And Default Settings
 
 Just restart the robur launcher one time again and then it works.
 (Only if the robur launcher is active.)
