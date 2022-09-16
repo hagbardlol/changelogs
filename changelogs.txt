@@ -1,24 +1,25 @@
-[08-29-2022]
+[09-16-2022]
 
 [CoreEx]:
-    >Fixed Recall Position
+    >Released Umbrella (https://robur.lol/files/file/350-umbrella/)
     >Fixed A Bug
-    >Fixed Menu Slider Crash
+    >Security Improvements
+    >Performance Improvements
+
 [Awareness]:
-    >Added Track Jungle In FOG
+    >Do Not Show Body Far From FoW Position
+
 [Activator]:
-    >Added Exhaust Logic
-    >Moved BaseUlt From Awareness To Activator
-[DreamTS]:
-    >Fixed API GetPriority
+    >Fixed A Bug
+
 [DamageLib]:
-    >Fixed Qiyana Damage
-    >Fixed TitanicHydra
-    >Fixed Irelia Q 
-    >Fixed Pyke R
-[Assemblies]:
-    >CXLeeSin Jungle Q
-    >Updated xSalice Assemblies Menu And Default Settings
+    >Fixed ItemIDs
+
+[Prediction]:
+    >Calculation Improvements
+
+[Champions]:
+    >Released Draven
 
 Just restart the robur launcher one time again and then it works.
 (Only if the robur launcher is active.)
