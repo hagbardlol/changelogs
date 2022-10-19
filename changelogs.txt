@@ -1,25 +1,24 @@
-[09-16-2022]
+[10-19-2022]
 
-[CoreEx]:
-    >Released Umbrella (https://robur.lol/files/file/350-umbrella/)
-    >Fixed A Bug
-    >Security Improvements
-    >Performance Improvements
+ [Orbwalker]:
+    >Fixed Bugs
 
-[Awareness]:
-    >Do Not Show Body Far From FoW Position
+ [Awareness]:
+    >New Side HUD + UI
+    >New Side Notifications + UI
+    >New MIA + UI
+    >New Baseult + UI
+    >New CD Tracker + UI
+    >Recall Tracker + UI
+    >Pit Tracker + UI
+    >Dash Tracker + UI (for all spells and more)
+    >Passive Tracker + UI (for all important ones)
+    >Item Tracker + UI (for all important ones)
+    >Buff Tracker + UI (for all important ones but you can enable any you like)
+    >Jungle FOG Tracker Fix
 
-[Activator]:
-    >Fixed A Bug
-
-[DamageLib]:
-    >Fixed ItemIDs
-
-[Prediction]:
-    >Calculation Improvements
-
-[Champions]:
-    >Released Draven
+ [DamageLib]:
+    >12.20
 
 Just restart the robur launcher one time again and then it works.
 (Only if the robur launcher is active.)
